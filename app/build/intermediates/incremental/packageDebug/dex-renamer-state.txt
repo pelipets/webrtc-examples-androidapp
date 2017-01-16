@@ -1,0 +1,4 @@
+#Mon Jan 16 21:16:33 EET 2017
+base.0=/Users/pelipets/AndroidStudioProjects/webrtc-master-webrtc-examples-androidapp/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/Users/pelipets/AndroidStudioProjects/webrtc-master-webrtc-examples-androidapp/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex

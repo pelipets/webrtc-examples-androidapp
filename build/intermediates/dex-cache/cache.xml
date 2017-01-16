@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/pelipets/AndroidStudioProjects/webrtc-master-webrtc-examples-androidapp/app/libs/autobanh.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9b51fb848b29a3e41b8474ce2d4360f4d7d144c5">
+        <dex dex="/Users/pelipets/AndroidStudioProjects/webrtc-master-webrtc-examples-androidapp/app/build/intermediates/pre-dexed/debug/autobanh_c2e07ab646d47c36f148c2e87e7ada8daddfc5e4.jar" />
+    </item>
+
+</items>

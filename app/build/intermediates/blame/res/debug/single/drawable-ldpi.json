@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/pelipets/AndroidStudioProjects/webrtc-master-webrtc-examples-androidapp/app/build/intermediates/res/merged/debug/drawable-ldpi/ic_launcher.png",
+        "source": "/Users/pelipets/AndroidStudioProjects/webrtc-master-webrtc-examples-androidapp/app/src/main/res/drawable-ldpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/pelipets/AndroidStudioProjects/webrtc-master-webrtc-examples-androidapp/app/build/intermediates/res/merged/debug/drawable-ldpi/ic_action_return_from_full_screen.png",
+        "source": "/Users/pelipets/AndroidStudioProjects/webrtc-master-webrtc-examples-androidapp/app/src/main/res/drawable-ldpi/ic_action_return_from_full_screen.png"
+    },
+    {
+        "merged": "/Users/pelipets/AndroidStudioProjects/webrtc-master-webrtc-examples-androidapp/app/build/intermediates/res/merged/debug/drawable-ldpi/ic_loopback_call.png",
+        "source": "/Users/pelipets/AndroidStudioProjects/webrtc-master-webrtc-examples-androidapp/app/src/main/res/drawable-ldpi/ic_loopback_call.png"
+    },
+    {
+        "merged": "/Users/pelipets/AndroidStudioProjects/webrtc-master-webrtc-examples-androidapp/app/build/intermediates/res/merged/debug/drawable-ldpi/ic_action_full_screen.png",
+        "source": "/Users/pelipets/AndroidStudioProjects/webrtc-master-webrtc-examples-androidapp/app/src/main/res/drawable-ldpi/ic_action_full_screen.png"
+    },
+    {
+        "merged": "/Users/pelipets/AndroidStudioProjects/webrtc-master-webrtc-examples-androidapp/app/build/intermediates/res/merged/debug/drawable-ldpi/disconnect.png",
+        "source": "/Users/pelipets/AndroidStudioProjects/webrtc-master-webrtc-examples-androidapp/app/src/main/res/drawable-ldpi/disconnect.png"
+    }
+]
